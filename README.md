@@ -24,7 +24,7 @@ However in 2018, most stocks see losses with only ENPH and RUN seeing postive re
 
 From this, we would need more information about what event occurred that's let to most stocks seeing a dip in value so that we can better understand how RUN and ENPH maintained profitability and if they are likely to continue this trend. 
 
-We can safely say that this is an effective way of providing analysis of large amounts of data for users that are not familiar with how to do this themselves because the code can run for both years in less than one second. 
+We can safely say that this is an effective way of providing analysis of large amounts of data for users that are not familiar with how to do this themselves because the code can run for both years in almost a tenth of a second. 
 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png) ![VBA_Challenge_2018](VBA_Challenge_2018.png) 
 
