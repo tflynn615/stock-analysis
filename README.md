@@ -1,7 +1,7 @@
 # stock-analysis
 
-##Overview 
+## Overview 
 
-##Results 
+## Results 
 
-##Summary
+## Summary
