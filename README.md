@@ -16,7 +16,7 @@ We then used a For loop to insert the outputs of each of these arrays into a tab
 
 From this work we can see that in 2017,the majority of stocks are profitable with DQ and SEDG leading the with 199% and 184% returns respectively: 
 
-![VBA_Challenge_2017.png](docs/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
 
 
