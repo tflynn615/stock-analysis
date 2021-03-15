@@ -10,17 +10,17 @@ To analyze all stocks in the data for years 2017 and 2018, we created an input b
 
 We then used the code in the picture below to calculate the answers for volume, starting price, and ending price: 
 
-**insert picture 
+![Code](code.png)
 
 We then used a For loop to insert the outputs of each of these arrays into a table in the "Analyze All Stocks" worksheet for the user to reference. The formula of "end price/start price - 1" was used to calculate Returns for each stock. Attaching these subroutines to buttons in the excel worksheet makes it easier for future users to run these analyses without them needing to know VBA themselves. 
 
 From this work we can see that in 2017,the majority of stocks are profitable with DQ and SEDG leading the with 199% and 184% returns respectively: 
 
-**add in picture
+![2017](2017.png)
 
 However in 2018, most stocks see losses with only ENPH and RUN seeing postive returns: 
 
-**add picture 
+![2018](2018.png)
 
 From this, we would need more information about what event occurred that's let to most stocks seeing a dip in value so that we can better understand how RUN and ENPH maintained profitability and if they are likely to continue this trend. 
 
@@ -30,3 +30,5 @@ We can safely say that this is an effective way of providing analysis of large a
 
 
 ## Summary
+
+One great benefit to refactoring code is that once you revisit a line of code after seeing the whole picture, it is possible to think of a shorter or simpler line of code that gets to the same end result. This can result in streamlined processes and can improve your own coding skills. However, this can be hard to accomplish if it's not clear when reading through the code what each line is trying to accomplish. This is why heavily commenting on the code is very highly recommended so that future readers can clearly see what the goal is and can evaluate if it's the best route to that end goal. I see this clearly in this refactoring example as I had to revisit the original code a few times in order to understand next steps and to see if there were any things I was missing. 
