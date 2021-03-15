@@ -16,8 +16,17 @@ We then used a For loop to insert the outputs of each of these arrays into a tab
 
 From this work we can see that in 2017,the majority of stocks are profitable with DQ and SEDG leading the with 199% and 184% returns respectively: 
 
-![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
+**add in picture
 
+However in 2018, most stocks see losses with only ENPH and RUN seeing postive returns: 
+
+**add picture 
+
+From this, we would need more information about what event occurred that's let to most stocks seeing a dip in value so that we can better understand how RUN and ENPH maintained profitability and if they are likely to continue this trend. 
+
+We can safely say that this is an effective way of providing analysis of large amounts of data for users that are not familiar with how to do this themselves because the code can run for both years in less than one second. 
+
+![VBA_Challenge_2017](VBA_Challenge_2017.png) ![VBA_Challenge_2018](VBA_Challenge_2018.png) 
 
 
 ## Summary
