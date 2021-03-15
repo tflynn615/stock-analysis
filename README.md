@@ -10,7 +10,7 @@ To analyze all stocks in the data for years 2017 and 2018, we created an input b
 
 We then used the code in the picture below to calculate the answers for volume, starting price, and ending price: 
 
-![Code](code.png)
+![Code](Code.png)
 
 We then used a For loop to insert the outputs of each of these arrays into a table in the "Analyze All Stocks" worksheet for the user to reference. The formula of "end price/start price - 1" was used to calculate Returns for each stock. Attaching these subroutines to buttons in the excel worksheet makes it easier for future users to run these analyses without them needing to know VBA themselves. 
 
